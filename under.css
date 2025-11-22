@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+background-color: blueviolet;
+height: 500px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.logo{
+    width: 1000px;
+    height: 500px;
+}
+,navbutton{
+    background-color: white;
+    height: 100px;
+
+}
